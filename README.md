@@ -4,7 +4,7 @@ This repository serves as a comprehensive record of my data science learning jou
 <img width="750" height= "300" src="https://wallpapercave.com/wp/wp4748439.jpg">
 
 ## First project:
-### Build a Real-world PayPal Data Science Project with Streamlit & Python <br>
-- GitHub Repository: https://github.com/RyanNolanData/Tran...
-- Streamlit App Demo Link: https://transaction-monitoring-5vl8sw...
-- Youtube: https://youtu.be/ESJsDosHxhc?si=gYlgAzNtIcd0Aoi8
+### Build a Real-world PayPal Data Science Project with Streamlit & Python <be>
+##### Source:
+» GitHub Repository: https://github.com/RyanNolanData/Transaction-Monitoring <br>
+» Youtube: https://youtu.be/ESJsDosHxhc?si=gYlgAzNtIcd0Aoi8
